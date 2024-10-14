@@ -73,7 +73,8 @@
     {
       "name": "label",
       "description": "Option label content",
-      "version": "{ option: SegmentedOption }",
+      "version": "",
+      "params": "{ option: SegmentedOption }",
       "description_zh": "选项标签内容"
     }
   ],

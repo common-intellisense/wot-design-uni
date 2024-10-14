@@ -190,7 +190,8 @@
     {
       "name": "indicator",
       "description": "Custom indicators",
-      "version": "{ current: number, total: number }",
+      "version": "",
+      "params": "{ current: number, total: number }",
       "description_zh": "自定义指示器"
     }
   ],
